@@ -4,6 +4,8 @@ package main
 /*
 Os códigos em Go são organizados em pacotes
 e para usá-los é necessário declarar um ou vários imports
+
+fmt (format)
 */
 import "fmt"
 
